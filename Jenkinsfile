@@ -1,4 +1,4 @@
-//Jenkinsfile Kok Leang
+//Jenkinsfile Soo Kok Leang
 pipeline {
     agent any
     stages {
